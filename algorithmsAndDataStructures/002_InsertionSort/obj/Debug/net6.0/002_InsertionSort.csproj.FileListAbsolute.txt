@@ -1,0 +1,15 @@
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\bin\Debug\net6.0\002_InsertionSort.exe
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\bin\Debug\net6.0\002_InsertionSort.deps.json
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\bin\Debug\net6.0\002_InsertionSort.runtimeconfig.json
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\bin\Debug\net6.0\002_InsertionSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\bin\Debug\net6.0\002_InsertionSort.pdb
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\obj\Debug\net6.0\002_InsertionSort.csproj.AssemblyReference.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\obj\Debug\net6.0\002_InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\obj\Debug\net6.0\002_InsertionSort.AssemblyInfoInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\obj\Debug\net6.0\002_InsertionSort.AssemblyInfo.cs
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\obj\Debug\net6.0\002_InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\obj\Debug\net6.0\002_InsertionSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\obj\Debug\net6.0\refint\002_InsertionSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\obj\Debug\net6.0\002_InsertionSort.pdb
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\obj\Debug\net6.0\002_InsertionSort.genruntimeconfig.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\002_InsertionSort\obj\Debug\net6.0\ref\002_InsertionSort.dll

@@ -1,0 +1,15 @@
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\bin\Debug\net6.0\algorithmsAndDataStructures.exe
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\bin\Debug\net6.0\algorithmsAndDataStructures.deps.json
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\bin\Debug\net6.0\algorithmsAndDataStructures.runtimeconfig.json
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\bin\Debug\net6.0\algorithmsAndDataStructures.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\bin\Debug\net6.0\algorithmsAndDataStructures.pdb
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\algorithmsAndDataStructures.csproj.AssemblyReference.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\algorithmsAndDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\algorithmsAndDataStructures.AssemblyInfoInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\algorithmsAndDataStructures.AssemblyInfo.cs
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\algorithmsAndDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\algorithmsAndDataStructures.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\refint\algorithmsAndDataStructures.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\algorithmsAndDataStructures.pdb
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\algorithmsAndDataStructures.genruntimeconfig.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\ref\algorithmsAndDataStructures.dll

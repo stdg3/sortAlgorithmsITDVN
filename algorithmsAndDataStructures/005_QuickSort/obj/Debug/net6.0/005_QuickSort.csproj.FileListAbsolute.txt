@@ -1,0 +1,15 @@
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\bin\Debug\net6.0\005_QuickSort.exe
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\bin\Debug\net6.0\005_QuickSort.deps.json
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\bin\Debug\net6.0\005_QuickSort.runtimeconfig.json
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\bin\Debug\net6.0\005_QuickSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\bin\Debug\net6.0\005_QuickSort.pdb
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\obj\Debug\net6.0\005_QuickSort.csproj.AssemblyReference.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\obj\Debug\net6.0\005_QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\obj\Debug\net6.0\005_QuickSort.AssemblyInfoInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\obj\Debug\net6.0\005_QuickSort.AssemblyInfo.cs
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\obj\Debug\net6.0\005_QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\obj\Debug\net6.0\005_QuickSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\obj\Debug\net6.0\refint\005_QuickSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\obj\Debug\net6.0\005_QuickSort.pdb
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\obj\Debug\net6.0\005_QuickSort.genruntimeconfig.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\005_QuickSort\obj\Debug\net6.0\ref\005_QuickSort.dll

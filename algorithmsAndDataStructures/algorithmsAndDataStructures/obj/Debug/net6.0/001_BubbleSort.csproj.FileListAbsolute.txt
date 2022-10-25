@@ -1,0 +1,15 @@
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\bin\Debug\net6.0\001_BubbleSort.exe
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\bin\Debug\net6.0\001_BubbleSort.deps.json
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\bin\Debug\net6.0\001_BubbleSort.runtimeconfig.json
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\bin\Debug\net6.0\001_BubbleSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\bin\Debug\net6.0\001_BubbleSort.pdb
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\001_BubbleSort.csproj.AssemblyReference.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\001_BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\001_BubbleSort.AssemblyInfoInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\001_BubbleSort.AssemblyInfo.cs
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\001_BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\001_BubbleSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\refint\001_BubbleSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\001_BubbleSort.pdb
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\001_BubbleSort.genruntimeconfig.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\algorithmsAndDataStructures\obj\Debug\net6.0\ref\001_BubbleSort.dll

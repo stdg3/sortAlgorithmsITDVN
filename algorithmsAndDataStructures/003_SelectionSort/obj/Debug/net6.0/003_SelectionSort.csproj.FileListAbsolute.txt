@@ -1,0 +1,15 @@
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\bin\Debug\net6.0\003_SelectionSort.exe
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\bin\Debug\net6.0\003_SelectionSort.deps.json
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\bin\Debug\net6.0\003_SelectionSort.runtimeconfig.json
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\bin\Debug\net6.0\003_SelectionSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\bin\Debug\net6.0\003_SelectionSort.pdb
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\obj\Debug\net6.0\003_SelectionSort.csproj.AssemblyReference.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\obj\Debug\net6.0\003_SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\obj\Debug\net6.0\003_SelectionSort.AssemblyInfoInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\obj\Debug\net6.0\003_SelectionSort.AssemblyInfo.cs
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\obj\Debug\net6.0\003_SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\obj\Debug\net6.0\003_SelectionSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\obj\Debug\net6.0\refint\003_SelectionSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\obj\Debug\net6.0\003_SelectionSort.pdb
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\obj\Debug\net6.0\003_SelectionSort.genruntimeconfig.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\003_SelectionSort\obj\Debug\net6.0\ref\003_SelectionSort.dll

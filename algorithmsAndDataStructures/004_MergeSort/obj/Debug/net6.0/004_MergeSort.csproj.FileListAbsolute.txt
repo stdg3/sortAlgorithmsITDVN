@@ -1,0 +1,15 @@
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\obj\Debug\net6.0\004_MergeSort.csproj.AssemblyReference.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\obj\Debug\net6.0\004_MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\obj\Debug\net6.0\004_MergeSort.AssemblyInfoInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\obj\Debug\net6.0\004_MergeSort.AssemblyInfo.cs
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\obj\Debug\net6.0\004_MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\bin\Debug\net6.0\004_MergeSort.exe
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\bin\Debug\net6.0\004_MergeSort.deps.json
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\bin\Debug\net6.0\004_MergeSort.runtimeconfig.json
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\bin\Debug\net6.0\004_MergeSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\bin\Debug\net6.0\004_MergeSort.pdb
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\obj\Debug\net6.0\004_MergeSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\obj\Debug\net6.0\refint\004_MergeSort.dll
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\obj\Debug\net6.0\004_MergeSort.pdb
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\obj\Debug\net6.0\004_MergeSort.genruntimeconfig.cache
+C:\Users\avelicoglo\Desktop\internProjects\cSharpITDVN\algorithmsAndDataStructures\004_MergeSort\obj\Debug\net6.0\ref\004_MergeSort.dll
